@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\bin\Debug\ilk deneme telefon rehberi.exe.config
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\bin\Debug\ilk deneme telefon rehberi.exe
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\bin\Debug\ilk deneme telefon rehberi.pdb
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk deneme telefon rehberi.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk_deneme_telefon_rehberi.Form1.resources
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk_deneme_telefon_rehberi.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk deneme telefon rehberi.csproj.GenerateResource.Cache
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk deneme telefon rehberi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk deneme telefon rehberi.exe
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk deneme telefon rehberi.pdb
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk_deneme_telefon_rehberi.Form2.resources
+C:\Users\LENOVO\source\repos\ilk deneme telefon rehberi\ilk deneme telefon rehberi\obj\Debug\ilk_deneme_telefon_rehberi.Form3.resources
